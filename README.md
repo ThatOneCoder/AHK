@@ -20,6 +20,8 @@ Retrieve and change the clipboard's contents.
 Join the friendly AutoHotkey community and ask for help.
 Intermediates & Experts
 
+*Intermediates & Experts*
+
 You can also:
 
 * Create custom data-entry forms, user interfaces and menu bars.
