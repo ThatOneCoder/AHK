@@ -7,8 +7,8 @@ About AHK
 
 You can use AutoHotkey to:
 
-..*Automate almost anything by sending keystrokes and mouse clicks.
-..*You can write a mouse or keyboard macro by hand or a macro recorder.
+* Automate almost anything by sending keystrokes and mouse clicks.
+* You can write a mouse or keyboard macro by hand or a macro recorder.
 * Remap keys and buttons on your keyboard, joystick, and mouse.
 * Create hotkeys for keyboard, joystick, and mouse.
 * Essentially any key, button or combination can become a hotkey.
